@@ -178,5 +178,17 @@
       "umi_size": "12",
       "umi_offset": "16"     
     }
-  }
+  },
+    {
+    "when": {
+      "must" : {
+        "assay_type": "bulkATACseq",
+        "preparation_protocol_doi": "10.17504/protocols.io.5jyl898brv2w/v1"
+      }
+    },
+    "then": {
+      "library_pcr_cycles": null,
+      "number_of_pcr_cycles_for_indexing": "8"
+    }
+  },
 ]
