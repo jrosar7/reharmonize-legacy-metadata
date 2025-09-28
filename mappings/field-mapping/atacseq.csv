@@ -45,6 +45,7 @@ capture_batch_id,,,,
 preparation_instrument_vendor,,,,
 preparation_instrument_model,,,,
 preparation_instrument_kit,,,,
+amplification_PCR_cycles,library_pcr_cycles,library_pcr_cycles,library_pcr_cycles,library_pcr_cycles
 metadata_schema_id,,,,
 ,assay_category,assay_category,assay_category,assay_category
 ,donor_id,donor_id,donor_id,donor_id
@@ -57,7 +58,6 @@ metadata_schema_id,,,,
 ,pi,pi,pi,pi
 ,pi_email,pi_email,pi_email,pi_email
 ,sample_quality_metric,sample_quality_metric,,
-,library_pcr_cycles,library_pcr_cycles,library_pcr_cycles,library_pcr_cycles
 ,bulk_atac_cell_isolation_protocols_io_doi,bulk_atac_cell_isolation_protocols_io_doi,,
 ,,,sc_isolation_enrichment,sc_isolation_enrichment
 ,,,sc_isolation_protocols_io_doi,sc_isolation_protocols_io_doi
